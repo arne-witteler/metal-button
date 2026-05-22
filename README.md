@@ -15,6 +15,6 @@
 ## 🛠️ TECH STACK
 
 - **HTML5** & **CSS3** (Custom Properties, Linear Gradients, Cubic-Bezier Easing)
-- **Metallicss** (SVG Displacement Maps & Filters via Web Components)
+- **[Metallicss](https://www.metallicss.com)** (SVG Displacement Maps & Filters via Web Components)
 
 ---
